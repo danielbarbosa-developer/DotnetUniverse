@@ -6,7 +6,8 @@ namespace CarPerformance
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Car Performance Console App");
+            
         }
     }
 }
